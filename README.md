@@ -1,0 +1,2 @@
+# Javascript-Final
+I tried to create a tool in which I could visualize my eating habits. Each labeled healthy, junk food, and overeating. Once the top row of buttons are clicked it'll generate a new animated circle. Each button having their own color attributed to the circle to signify how many times you've eaten food in that specific button. The lower buttons are meant to keep track of the number of times one eats the specific food a day. 
